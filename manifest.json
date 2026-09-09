@@ -7265,6 +7265,26 @@
       ]
     },
     {
+      "name": "数字通信",
+      "note": "收录数字通信课程待复核课件，具体来源与公开边界仍需维护者确认。",
+      "assets": [
+        {
+          "subject": "数字通信",
+          "role": "待复核资料",
+          "title": "数字通信_待复核_数字通信原理课件.pdf",
+          "publicPath": "数字通信/待复核资料/数字通信_待复核_数字通信原理课件.pdf",
+          "bytes": 22921516,
+          "sha256": "abbb316f9fda0cfbf5e09a3d7008779eda8f3028c46234b1c1988820a5ea470c",
+          "containsPersonalInfo": false,
+          "sourceType": "unknown-reviewing",
+          "sourceNote": "由贡献者从本地数字通信课程资料目录提供；内容为完整课程课件，具体来源与公开再分发边界待维护者复核。",
+          "reviewStatus": "needs_review",
+          "uncertainty": "public_boundary_uncertain",
+          "licenseStatus": "public-review-only"
+        }
+      ]
+    },
+    {
       "name": "汇编语言",
       "note": "收录汇编语言课程电子版教材。",
       "assets": [
