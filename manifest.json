@@ -7265,6 +7265,28 @@
       ]
     },
     {
+      "name": "网络管理与测试",
+      "note": "收录网络管理与测试课程待复核课件，公开再分发边界待维护者确认。",
+      "assets": [
+        {
+          "subject": "网络管理与测试",
+          "role": "待复核资料",
+          "title": "网络管理与测试_待复核_2025-2026-1课程课件.pdf",
+          "publicPath": "网络管理与测试/待复核资料/网络管理与测试_待复核_2025-2026-1课程课件.pdf",
+          "bytes": 39672928,
+          "sha256": "3650ca5033a5e4987278a3f5b9c1328feb41211a34a07417418470ea38e73a75",
+          "year": "2025-2026学年第一学期",
+          "major": "网络工程",
+          "containsPersonalInfo": false,
+          "sourceType": "teacher-courseware",
+          "sourceNote": "文件内容标注为网络工程系网络管理与测试课程课件，授课教师为丁爽，适用学期为2025-2026学年第一学期；公开再分发边界待维护者确认。",
+          "reviewStatus": "needs_review",
+          "uncertainty": "public_boundary_uncertain",
+          "licenseStatus": "public-review-only"
+        }
+      ]
+    },
+    {
       "name": "汇编语言",
       "note": "收录汇编语言课程电子版教材。",
       "assets": [
