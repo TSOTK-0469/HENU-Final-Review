@@ -7265,6 +7265,26 @@
       ]
     },
     {
+      "name": "网络协议分析与攻防技术",
+      "note": "收录网络协议分析与攻防技术课程待复核考前资料，来源与公开再分发边界待维护者确认。",
+      "assets": [
+        {
+          "subject": "网络协议分析与攻防技术",
+          "role": "待复核资料",
+          "title": "网络协议分析与攻防技术_待复核_考前复习资料.pdf",
+          "publicPath": "网络协议分析与攻防技术/待复核资料/网络协议分析与攻防技术_待复核_考前复习资料.pdf",
+          "bytes": 4505003,
+          "sha256": "e5efda830fed3822f2be62c3ac0aa162c4f7b5439c5f6cb254e924d438d86fe9",
+          "containsPersonalInfo": false,
+          "sourceType": "unknown-reviewing",
+          "sourceNote": "内容为网络协议分析、网络攻防与安全机制相关考前复习题及参考答案；未发现个人信息，原始来源与公开再分发边界待维护者确认。",
+          "reviewStatus": "needs_review",
+          "uncertainty": "source_uncertain",
+          "licenseStatus": "public-review-only"
+        }
+      ]
+    },
+    {
       "name": "汇编语言",
       "note": "收录汇编语言课程电子版教材。",
       "assets": [
