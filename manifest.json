@@ -7287,6 +7287,68 @@
           }
         }
       ]
+    },
+    {
+      "name": "网络管理与测试",
+      "note": "收录网络管理与测试课程 2025-2026 学年第一学期课程课件。",
+      "assets": [
+        {
+          "subject": "网络管理与测试",
+          "role": "课件",
+          "title": "网络管理与测试_课件_2025-2026-1课程课件.pdf",
+          "publicPath": "网络管理与测试/课件/网络管理与测试_课件_2025-2026-1课程课件.pdf",
+          "bytes": 39672928,
+          "sha256": "3650ca5033a5e4987278a3f5b9c1328feb41211a34a07417418470ea38e73a75",
+          "year": "2025-2026学年第一学期",
+          "college": "河南大学",
+          "major": "网络工程",
+          "sourceType": "teacher-courseware",
+          "sourceNote": "网络工程系网络管理与测试课程课件，授课教师丁爽，适用学期为 2025-2026 学年第一学期；维护者已确认公开再分发授权。",
+          "reviewStatus": "verified",
+          "containsPersonalInfo": false,
+          "licenseStatus": "authorized-redistribution"
+        }
+      ]
+    },
+    {
+      "name": "网络协议分析与攻防技术",
+      "note": "收录网络协议分析与攻防技术课程考前复习资料。",
+      "assets": [
+        {
+          "subject": "网络协议分析与攻防技术",
+          "role": "复习讲义",
+          "title": "网络协议分析与攻防技术_复习讲义_考前复习资料.pdf",
+          "publicPath": "网络协议分析与攻防技术/复习讲义/网络协议分析与攻防技术_复习讲义_考前复习资料.pdf",
+          "bytes": 4505003,
+          "sha256": "e5efda830fed3822f2be62c3ac0aa162c4f7b5439c5f6cb254e924d438d86fe9",
+          "college": "河南大学",
+          "sourceType": "community-note",
+          "sourceNote": "网络协议分析、网络攻防与安全机制相关考前复习题及参考答案解析；未发现个人信息，维护者已确认公开再分发授权。",
+          "reviewStatus": "basic-reviewed",
+          "containsPersonalInfo": false,
+          "licenseStatus": "authorized-redistribution"
+        }
+      ]
+    },
+    {
+      "name": "操作系统",
+      "note": "收录操作系统课程待复核 Linux 基础笔记，课程归属与公开再分发边界待维护者确认。",
+      "assets": [
+        {
+          "subject": "操作系统",
+          "role": "待复核资料",
+          "title": "操作系统_待复核_Linux基础笔记.pdf",
+          "publicPath": "操作系统/待复核资料/操作系统_待复核_Linux基础笔记.pdf",
+          "bytes": 1074676,
+          "sha256": "21cb817b609df53df6087a4f900da8b645773ae48a2e416bb6c06fa69fed978c",
+          "containsPersonalInfo": false,
+          "sourceType": "unknown-reviewing",
+          "sourceNote": "内容为 Linux 常用命令、用户与权限、文件操作、打包压缩与系统管理基础笔记；正文以 VMware/CentOS/Xshell/Xftp 为环境，并涉及 Tomcat、war 包、JDK、mariadb、httpd 等部署主题，与既有「计算机操作系统」课程（教材：汤小丹《计算机操作系统》第四版）的理论内容不一致，课程归属仍待维护者确认。维护者已确认公开再分发授权，但课程归属未定，故仍保留在待复核资料。",
+          "reviewStatus": "needs_review",
+          "uncertainty": "course_uncertain",
+          "licenseStatus": "public-review-only"
+        }
+      ]
     }
   ]
 }
